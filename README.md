@@ -24,7 +24,11 @@ Fork the repository, modify the given file and submit a pull request.
 This list was compiled by **Henrique Bucher** with help from the FPGA community:
 
   [Vitorian LLC](vitorian.com/x1)
+  
   [henry@vitorian.com](mailto:henry@vitorian.com)
+  
   [github.com/hftrader](https://github.com/hftrader)
+  
   [twitter.com/hftrader](https://twitter.com/hftrader)
+  
   [linkedin.com/in/hftrader](https://www.linkedin.com/in/hftrader)
