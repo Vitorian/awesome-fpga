@@ -16,13 +16,16 @@ Fork the repository, modify the given file and submit a pull request.
 
 ## Books
 
+- [Verilog By Example: A Concise Introduction for FPGA Design](https://www.amazon.com/Verilog-Example-Concise-Introduction-Design/dp/0983497303) (Blaine Readler) 
+- [FPGA Prototyping by VHDL Examples: Xilinx Spartan-3](https://www.amazon.com/FPGA-Prototyping-VHDL-Examples-Spartan-3/dp/0470185317) (Pong P. Chu)
+- [FPGA Prototyping by Verilog Examples: Xilinx Spartan-3 Version](https://www.amazon.com/FPGA-Prototyping-Verilog-Examples-Spartan-3/dp/0470185325) (Pong P. Chu)
+- [100 Power Tipos for FPGA Designers](https://www.amazon.com/100-Power-Tips-FPGA-Designers/dp/1461186293) (Evgeni Stavinov)
+
 ## Devices 
 
-## Reference Designs
+## Xilinx News
 
-## Xilinx-specific
-
-## Altera-specific
+## Altera News
 
 
 This list was compiled by **Henrique Bucher** with help from the FPGA community:
