@@ -13,6 +13,7 @@ Fork the repository, modify the given file and submit a pull request.
 - [So You Want to Learn FPGAs...](https://www.sparkfun.com/news/1203) (Sparkfun) [Web]
 - [FPGA for Dummies](http://design.altera.com/New2FPGAeBook) (Altera) [eBook]
 - [FPGA - Wikipedia](https://en.wikipedia.org/wiki/Field-programmable_gate_array)
+- [World of ASIC - Verilog tutorials, examples](http://www.asic-world.com/verilog/index.html) [Web]
 
 ## Books
 
