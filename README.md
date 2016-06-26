@@ -1,4 +1,4 @@
-# Awesome FPGA Development
+# Awesome FPGA 
 
 A collection of resources on FPGA devices and development in general
 
@@ -8,7 +8,11 @@ We want people to be able to grasp the world of FPGA from hardware, devices to l
 
 Fork the repository, modify the given file and submit a pull request.
 
-## Tutorials
+## Best FPGA Tutorials
+
+- [My first FPGA Design Tutorial, Quartus](https://www.altera.com/content/dam/altera-www/global/en_US/pdfs/literature/tt/tt_my_first_fpga.pdf) (Altera) [PDF]
+- [Free FPGA Tutorials for ISE](http://www.xilinx.com/training/fpga-tutorials.htm) (Xilinx) [Web]
+- [So You Want to Learn FPGAs...](https://www.sparkfun.com/news/1203) (Sparkfun) [Web]
 
 ## Books
 
