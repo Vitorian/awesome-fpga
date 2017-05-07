@@ -16,7 +16,7 @@ Fork the repository, modify the given file and submit a pull request.
 - [World of ASIC - Verilog tutorials, examples](http://www.asic-world.com/verilog/index.html) [Web]
 - [The Development Channel - Vivado HLS tutorial](https://www.youtube.com/watch?v=kgae3Wzqngs) [YouTube]
 - [Mohammed Sadri - Xilinx Vivado tutorials](https://www.youtube.com/user/mamsadegh2) [YouTube]
-- [Arduino Startups - several "Easy" tutorials](https://www.youtube.com/channel/UCFJPdVHPZOYhSyxmX_C_Pew)
+- [Arduino Startups - several "Easy" tutorials](https://www.youtube.com/channel/UCFJPdVHPZOYhSyxmX_C_Pew) [YouTube]
 
 ## Books
 
