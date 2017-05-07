@@ -14,6 +14,9 @@ Fork the repository, modify the given file and submit a pull request.
 - [FPGA for Dummies](http://design.altera.com/New2FPGAeBook) (Altera) [eBook]
 - [FPGA - Wikipedia](https://en.wikipedia.org/wiki/Field-programmable_gate_array)
 - [World of ASIC - Verilog tutorials, examples](http://www.asic-world.com/verilog/index.html) [Web]
+- [The Development Channel - Vivado HLS tutorial](https://www.youtube.com/watch?v=kgae3Wzqngs) [YouTube]
+- [Mohammed Sadri - Xilinx Vivado tutorials](https://www.youtube.com/user/mamsadegh2) [YouTube]
+- [Arduino Startups - several "Easy" tutorials](https://www.youtube.com/channel/UCFJPdVHPZOYhSyxmX_C_Pew)
 
 ## Books
 
@@ -25,6 +28,10 @@ Fork the repository, modify the given file and submit a pull request.
 ## Devices 
 - [Comprehensive list of Xilinx Devices](http://www.xilinx.com/products/silicon-devices/fpga.html)
 - [Altera Product Selector](https://www.altera.com/products/product-selector-guide/psg-selector.html)
+
+## Tools
+- [FPGAMAKE - Generates Makefiles to synthesize, place, and route verilog using Vivado](https://github.com/cambridgehackers/fpgamake) [GitHub]
+- [FuseSoC is a package manager and a set of build tools for FPGA/ASIC development](https://github.com/olofk/fusesoc) [GitHub]
 
 ## Misc
 - [FPGA Vendor Directory](http://www.fpgacentral.com/vendor/directory)
