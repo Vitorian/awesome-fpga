@@ -32,6 +32,7 @@ Fork the repository, modify the given file and submit a pull request.
 ## Tools
 - [FPGAMAKE - Generates Makefiles to synthesize, place, and route verilog using Vivado](https://github.com/cambridgehackers/fpgamake) [GitHub]
 - [FuseSoC is a package manager and a set of build tools for FPGA/ASIC development](https://github.com/olofk/fusesoc) [GitHub]
+- [Holoso - high-level synthesis of portable Verilog from idiomatic Python for numerical/DSP applications](https://github.com/Zubax/holoso) [GitHub]
 
 ## Misc
 - [FPGA Vendor Directory](http://www.fpgacentral.com/vendor/directory)
