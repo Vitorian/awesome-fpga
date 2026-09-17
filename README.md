@@ -35,6 +35,7 @@ Fork the repository, modify the given file and submit a pull request.
 
 ## Misc
 - [FPGA Vendor Directory](http://www.fpgacentral.com/vendor/directory)
+- [ICBOMS FPGA & Semiconductor Sourcing](https://icboms.com/category/integrated-circuits) - Global sourcing, inventory search, and BOM line-matching for Xilinx, Altera/Intel, and Lattice FPGAs and CPLDs.
 - [Open Cores, the #1 community within open source hardware IP-cores](http://opencores.org/) 
 
 This list was compiled by **Henrique Bucher** with help from the FPGA community:
