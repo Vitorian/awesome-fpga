@@ -17,6 +17,7 @@ Fork the repository, modify the given file and submit a pull request.
 - [The Development Channel - Vivado HLS tutorial](https://www.youtube.com/watch?v=kgae3Wzqngs) [YouTube]
 - [Mohammed Sadri - Xilinx Vivado tutorials](https://www.youtube.com/user/mamsadegh2) [YouTube]
 - [Arduino Startups - several "Easy" tutorials](https://www.youtube.com/channel/UCFJPdVHPZOYhSyxmX_C_Pew) [YouTube]
+- [Fabric School - SDR and FPGA design from zero, 54 lessons on a Zynq-7020 + AD9361 board](https://matsvandamme.github.io/fishball7020-fpga-devkit/course/) [Web]
 
 ## Books
 
@@ -32,6 +33,7 @@ Fork the repository, modify the given file and submit a pull request.
 ## Tools
 - [FPGAMAKE - Generates Makefiles to synthesize, place, and route verilog using Vivado](https://github.com/cambridgehackers/fpgamake) [GitHub]
 - [FuseSoC is a package manager and a set of build tools for FPGA/ASIC development](https://github.com/olofk/fusesoc) [GitHub]
+- [Fishball7020 Devkit - rebuildable firmware and the full Vivado block design for a Zynq XC7Z020 + AD9361 SDR](https://github.com/matsvandamme/fishball7020-fpga-devkit) [GitHub]
 
 ## Misc
 - [FPGA Vendor Directory](http://www.fpgacentral.com/vendor/directory)
